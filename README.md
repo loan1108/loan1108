@@ -1,5 +1,6 @@
-### Hi there 👋
-
+#**Hi I am Loan** 👋
+I'm from _Vietnam_
+`code Javascript`
 <!--
 **loan1108/loan1108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
